@@ -2,7 +2,7 @@
 ## Reconnaissance
 First, we use nmap to see what services and at what ports are open/active in the server
 
-<p align="center"><img src="nmap.png"></p>
+![]()
 
 As we can see that SSH and HTTP are open, i checked the HTTP/web first to see what's in it.
 
