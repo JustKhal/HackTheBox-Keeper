@@ -28,7 +28,7 @@ When i opened Admin - Users - Create, we see that there's 2 privileged users in 
 
 Since we know that other than HTTP there's also SSH service that's open in this server, that means we can check if the lnorgaard's password is only for this website or also the credential for SSH.
 
-## Exploitation
+## Exploitation & User Flag
 <p align="center"><img src="images/ssh_success.png"></p>
 
 and Voilà, we are able to get in the SSH as lnorgaard and we get the user flag
@@ -36,3 +36,4 @@ and Voilà, we are able to get in the SSH as lnorgaard and we get the user flag
 <p align="center"><img src="images/ssh_success.png"></p>
 <p align="center"><img src="images/user_flag.png"></p>
 
+## System Flag
